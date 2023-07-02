@@ -12,4 +12,3 @@ https://flowerhtmlcss.netlify.app/
 ### `Screen`
 
 ![](flower.gif)
-
